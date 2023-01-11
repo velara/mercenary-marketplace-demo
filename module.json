@@ -1,0 +1,140 @@
+{
+  "id": "pf2e-mercenary-marketplace-demo",
+  "version": "1.0.0",
+  "title": "PF2e Mercenary Marketplace Demo",
+  "description": "A demo for Mercenary Marketplace.",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "manifest": "",
+  "esmodules": [
+    "popup.js"
+  ],
+  "styles": [
+    "styles/pf2e-mmDemo.css"
+  ],
+  "packs": [
+    {
+      "label": "Mercenary Marketplace Demo NPCs",
+      "type": "Actor",
+      "name": "mmDemo-actors",
+      "path": "packs/actors-mercenary-marketplace-demo.db",
+      "system": "pf2e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "label": "Mercenary Marketplace Demo Ability Glossary",
+      "type": "Item",
+      "name": "mmDemo-abilities",
+      "path": "packs/abilities-mercenary-marketplace-demo.db",
+      "system": "pf2e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "label": "Mercenary Marketplace Demo Effect Glossary",
+      "type": "Item",
+      "name": "mmDemo-effects",
+      "path": "packs/effects-mercenary-marketplace-demo.db",
+      "system": "pf2e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "label": "Mercenary Marketplace Demo Creature Templates",
+      "type": "Item",
+      "name": "mmDemo-templates",
+      "path": "packs/templates-mercenary-marketplace-demo.db",
+      "system": "pf2e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "label": "Mercenary Marketplace Demo Spells",
+      "type": "Item",
+      "name": "mmDemo-spells",
+      "path": "packs/spells-mercenary-marketplace-demo.db",
+      "system": "pf2e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "label": "Mercenary Marketplace Demo Macros",
+      "type": "Macro",
+      "name": "mmDemo-macros",
+      "path": "packs/macros-mercenary-marketplace-demo.db",
+      "system": "pf2e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "label": "Mercenary Marketplace Demo Journals",
+      "type": "JournalEntry",
+      "name": "mmDemo-journals",
+      "path": "packs/journals-mercenary-marketplace-demo.db",
+      "system": "pf2e",
+      "private": true,
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "compatibility": {
+          "minimum": "4.4.2"
+        },
+        "type": "system"
+      }
+    ]
+  },
+  "flags": {
+    "pf2e-mercenary-marketplace-demo": {
+      "pf2e-homebrew": {
+        "creatureTraits": {
+          "alchemist": "Alchemist",
+          "barbarian": "Barbarian",
+          "bard": "Bard",
+          "champion": "Champion",
+          "cleric": "Cleric",
+          "druid": "Druid",
+          "fighter": "Fighter",
+          "gunslinger": "Gunslinger",
+          "inventor": "Inventor",
+          "investigator": "Investigator",
+          "magus": "Magus",
+          "monk": "Monk",
+          "oracle": "Oracle",
+          "ranger": "Ranger",
+          "rogue": "Rogue",
+          "sorcerer": "Sorcerer",
+          "summoner": "Summoner",
+          "swashbuckler": "Swashbuckler",
+          "witch": "Witch",
+          "wizard": "Wizard",
+          "artillery": "Artillery",
+          "bruiser": "Bruiser",
+          "defender": "Defender",
+          "hexer": "Hexer",
+          "leader": "Leader",
+          "medic": "Medic",
+          "skirmisher": "Skirmisher",
+          "controller": "Multi-Target",
+          "striker": "Single-Target",
+          "crew": "Crew",
+          "arcaneCaster": "Arcane Caster",
+          "divineCaster": "Divine Caster",
+          "primalCaster": "Primal Caster",
+          "occultCaster": "Occult Caster"
+        },
+        "featTraits": {
+          "mandatory": "Mandatory",
+          "template": "Template"
+        }
+      }
+    }
+  }
+}
