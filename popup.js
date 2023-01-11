@@ -28,7 +28,7 @@ Hooks.once('ready', async function () {
 
                 content: `
                 <p>
-								Thank you for purchasing Mercenary Marketplace Volume 1!
+								Thank you for checking out the Mercenary Marketplace Demo, if you like what you see please consider checking out the full version of Volume 1!
 								</p>
 								<p>This module would not have been possible without the feedback from Amanda, InfamousSky, and SkepticRobot.</p>
 								<p>
