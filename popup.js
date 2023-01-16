@@ -24,15 +24,15 @@ Hooks.once('ready', async function () {
     if (game.user.isGM) {
         if (game.settings.get("pf2e-mercenary-marketplace-demo", "popupVis") == true) {
             let d = new Dialog({
-                title: "Mercenary Marketplace Volume 1 Activated",
+                title: "Mercenary Marketplace Demo Activated",
 
                 content: `
                 <p>
-								Thank you for checking out the Mercenary Marketplace Demo, if you like what you see please consider checking out the full version of Volume 1!
+								Thank you for picking up the Mercenary Marketplace Demo!
 								</p>
 								<p>This module would not have been possible without the feedback from Amanda, InfamousSky, and SkepticRobot.</p>
 								<p>
-                Please click the introduction button to discover all your new content.
+                Please click the introduction button to discover what the demo has to offer.
                 </p>
                 `,
                 buttons: {
