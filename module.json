@@ -1,12 +1,22 @@
 {
   "id": "pf2e-mercenary-marketplace-demo",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "title": "PF2e Mercenary Marketplace Demo",
   "description": "A demo for Mercenary Marketplace.",
+  "authors": [
+    {
+      "name": "Avery"
+    }
+  ],
+  "media": [{
+        "type": "setup",
+        "caption": "Mercenary Marketplace Demo",
+        "thumbnail": "modules/pf2e-mercenary-marketplace-vol1/art/mmdemo-thumb.webp"
+  }],
   "compatibility": {
-    "minimum": "10",
-    "verified": "10",
-    "maximum": "10"
+    "minimum": "11",
+    "verified": "11",
+    "maximum": "11"
   },
   "manifest": "https://raw.githubusercontent.com/velara/mercenary-marketplace-demo/main/module.json",
   "download": "https://github.com/velara/mercenary-marketplace-demo/archive/refs/tags/1.0.2.zip",
@@ -18,67 +28,89 @@
   ],
   "packs": [
     {
-      "label": "Mercenary Marketplace Demo NPCs",
+      "label": "Demo NPCs",
       "type": "Actor",
       "name": "mmDemo-actors",
-      "path": "packs/actors-mercenary-marketplace-demo.db",
+      "path": "packs/actors-mercenary-marketplace-demo",
       "system": "pf2e",
+      "banner": "modules/pf2e-mercenary-marketplace-vol1/art/mmv1-banner.webp",
       "private": true,
       "flags": {}
     },
     {
-      "label": "Mercenary Marketplace Demo Ability Glossary",
+      "label": "Demo Ability Glossary",
       "type": "Item",
       "name": "mmDemo-abilities",
-      "path": "packs/abilities-mercenary-marketplace-demo.db",
+      "path": "packs/abilities-mercenary-marketplace-demo",
       "system": "pf2e",
+      "banner": "modules/pf2e-mercenary-marketplace-vol1/art/mmv1-banner-AET.webp",
       "private": true,
       "flags": {}
     },
     {
-      "label": "Mercenary Marketplace Demo Effect Glossary",
+      "label": "Demo Effect Glossary",
       "type": "Item",
       "name": "mmDemo-effects",
-      "path": "packs/effects-mercenary-marketplace-demo.db",
+      "path": "packs/effects-mercenary-marketplace-demo",
       "system": "pf2e",
+      "banner": "modules/pf2e-mercenary-marketplace-vol1/art/mmv1-banner-AET.webp",
       "private": true,
       "flags": {}
     },
     {
-      "label": "Mercenary Marketplace Demo Creature Templates",
+      "label": "Demo Creature Templates",
       "type": "Item",
       "name": "mmDemo-templates",
-      "path": "packs/templates-mercenary-marketplace-demo.db",
+      "path": "packs/templates-mercenary-marketplace-demo",
       "system": "pf2e",
+      "banner": "modules/pf2e-mercenary-marketplace-vol1/art/mmv1-banner-AET.webp",
       "private": true,
       "flags": {}
     },
     {
-      "label": "Mercenary Marketplace Demo Spells",
+      "label": "Demo Spells",
       "type": "Item",
       "name": "mmDemo-spells",
-      "path": "packs/spells-mercenary-marketplace-demo.db",
+      "path": "packs/spells-mercenary-marketplace-demo",
       "system": "pf2e",
+      "banner": "modules/pf2e-mercenary-marketplace-vol1/art/mmv1-banner-SM.webp",
       "private": true,
       "flags": {}
     },
     {
-      "label": "Mercenary Marketplace Demo Macros",
+      "label": "Demo Macros",
       "type": "Macro",
       "name": "mmDemo-macros",
-      "path": "packs/macros-mercenary-marketplace-demo.db",
+      "path": "packs/macros-mercenary-marketplace-demo",
       "system": "pf2e",
+      "banner": "modules/pf2e-mercenary-marketplace-vol1/art/mmv1-banner-SM.webp",
       "private": true,
       "flags": {}
     },
     {
-      "label": "Mercenary Marketplace Demo Journals",
+      "label": "Demo Journals",
       "type": "JournalEntry",
       "name": "mmDemo-journals",
-      "path": "packs/journals-mercenary-marketplace-demo.db",
+      "path": "packs/journals-mercenary-marketplace-demo",
       "system": "pf2e",
+      "banner": "modules/pf2e-mercenary-marketplace-vol1/art/mmv1-banner-J.webp",
       "private": true,
       "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Mercenary Marketplace Demo",
+      "sorting": "m",
+      "packs": [
+        "mmDemo-actors",
+        "mmDemo-templates",
+        "mmDemo-macros",
+        "mmDemo-abilities",
+        "mmDemo-effects",
+        "mmDemo-spells",
+        "mmDemo-journals"
+      ]
     }
   ],
   "relationships": {
@@ -86,7 +118,7 @@
       {
         "id": "pf2e",
         "compatibility": {
-          "minimum": "4.6.7"
+          "minimum": "5.16.0"
         },
         "type": "system"
       }

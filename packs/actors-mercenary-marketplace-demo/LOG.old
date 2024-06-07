@@ -1,0 +1,12 @@
+2024/06/07-14:23:35.621 a2b8 Recovering log #6
+2024/06/07-14:23:35.621 a2b8 Level-0 table #8: started
+2024/06/07-14:23:35.625 a2b8 Level-0 table #8: 174156 bytes OK
+2024/06/07-14:23:35.628 a2b8 Delete type=0 #6
+2024/06/07-14:23:35.628 a2b8 Delete type=3 #4
+2024/06/07-14:30:30.519 9584 Compacting 2@0 + 0@1 files
+2024/06/07-14:30:30.558 9584 Generated table #10@0: 2266 keys, 2128193 bytes
+2024/06/07-14:30:30.575 9584 Generated table #11@0: 264 keys, 230393 bytes
+2024/06/07-14:30:30.575 9584 Compacted 2@0 + 0@1 files => 2358586 bytes
+2024/06/07-14:30:30.575 9584 compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/06/07-14:30:30.576 9584 Delete type=2 #5
+2024/06/07-14:30:30.576 9584 Delete type=2 #8
