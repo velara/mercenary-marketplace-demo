@@ -19,7 +19,7 @@
     "maximum": "11"
   },
   "manifest": "https://raw.githubusercontent.com/velara/mercenary-marketplace-demo/main/module.json",
-  "download": "https://github.com/velara/mercenary-marketplace-demo/archive/refs/tags/1.0.2.zip",
+  "download": "https://github.com/velara/mercenary-marketplace-demo/archive/refs/tags/2.0.0.zip",
   "esmodules": [
     "popup.js"
   ],
