@@ -1,0 +1,4189 @@
+{
+  "pf2e-mercenary-marketplace-vol1.mmv1-actors": {
+    "BrSMV1iUJBt7LwEt": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/human-merchant-alchemist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/human-merchant-alchemist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/human-merchant-alchemist.webp"
+          }
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/human-merchant-alchemist.webp"
+          }
+        }
+      }
+    },
+    "l6mmb4tcgsTSTcHM": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/human-merchant-alchemist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/human-merchant-alchemist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/human-merchant-alchemist.webp"
+          }
+        }
+      }
+    },
+    "RKET5pZv7Lvi7aTL": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/human-merchant-alchemist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/human-merchant-alchemist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/human-merchant-alchemist.webp"
+          }
+        }
+      }
+    },
+    "TugStq1YkZoncBsu": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/human-merchant-alchemist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/human-merchant-alchemist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/human-merchant-alchemist.webp"
+          }
+        }
+      }
+    },
+    "LRdrNMPl6tXkwAu4": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/human-merchant-alchemist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/human-merchant-alchemist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/human-merchant-alchemist.webp"
+          }
+        }
+      }
+    },
+    "HMT57G33CeDJeE7D": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/human-merchant-alchemist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/human-merchant-alchemist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/human-merchant-alchemist.webp"
+          }
+        }
+      }
+    },
+    "ufSMXUVq9EuTfY8o": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-antipaladin.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-antipaladin.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-antipaladin.webp"
+          }
+        }
+      }
+    },
+    "FZUCjSEpwWkA4vj8": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-antipaladin.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-antipaladin.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-antipaladin.webp"
+          }
+        }
+      }
+    },
+    "pdKFyhtYgoyo8A8v": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-antipaladin.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-antipaladin.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-antipaladin.webp"
+          }
+        }
+      }
+    },
+    "M99j9GTd9eKDM3Cc": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-antipaladin.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-antipaladin.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-antipaladin.webp"
+          }
+        }
+      }
+    },
+    "vkxdTxUYsTr3WHkr": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-antipaladin.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-antipaladin.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-antipaladin.webp"
+          }
+        }
+      }
+    },
+    "i3rCwmxHA3AhYB7R": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-antipaladin.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-antipaladin.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-antipaladin.webp"
+          }
+        }
+      }
+    },
+    "4HmgVR3K2u1P7PK3": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/aspis-agent.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/aspis-agent.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/aspis-agent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Lahn3QQAVZlF3V2P": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/aspis-agent.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/aspis-agent.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/aspis-agent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "S5Py9aRwgu1RxyFu": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/aspis-agent.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/aspis-agent.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/aspis-agent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AGAoexWKGf8rr6Hs": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/aspis-agent.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/aspis-agent.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/aspis-agent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "4s25EOZeB9ERe80m": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/aspis-agent.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/aspis-agent.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/aspis-agent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JSKYGTC2uKdoMqIp": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/aspis-agent.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/aspis-agent.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/aspis-agent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6T6CShQz5NYpl0i6": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/aspis-agent.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/aspis-agent.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/aspis-agent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "2sY8toOYO9RSHVAK": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/aspis-agent.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/aspis-agent.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/aspis-agent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SfB2hnKeeM8jYlWu": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/aspis-agent.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/aspis-agent.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/aspis-agent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Mz8YwAvqjT4RsDla": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-champion-of-iomedae.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-champion-of-iomedae.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-champion-of-iomedae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "urNQwrRYcIaTFPbh": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-champion-of-iomedae.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-champion-of-iomedae.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-champion-of-iomedae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Vb0219HarRkoY7SS": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-champion-of-iomedae.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-champion-of-iomedae.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-champion-of-iomedae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bhxRSIybmDQ0SFZ8": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-champion-of-iomedae.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-champion-of-iomedae.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-champion-of-iomedae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "aG08AcztsqGb4FgX": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-champion-of-iomedae.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-champion-of-iomedae.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-champion-of-iomedae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BFbhyVfAL9kY4aTg": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-champion-of-iomedae.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-champion-of-iomedae.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-champion-of-iomedae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uRLvqoIAtjGzWCFZ": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rastel-waiting-one.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rastel-waiting-one.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rastel-waiting-one.webp"
+          }
+        }
+      }
+    },
+    "XV93IR6dQqdhJ9To": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rastel-waiting-one.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rastel-waiting-one.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rastel-waiting-one.webp"
+          }
+        }
+      }
+    },
+    "GucfeJ75iqQQGqCa": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rastel-waiting-one.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rastel-waiting-one.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rastel-waiting-one.webp"
+          }
+        }
+      }
+    },
+    "JS3iVWBmEJ9hcl7m": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rastel-waiting-one.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rastel-waiting-one.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rastel-waiting-one.webp"
+          }
+        }
+      }
+    },
+    "vvbH0YtUmqWPlELs": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rastel-waiting-one.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rastel-waiting-one.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rastel-waiting-one.webp"
+          }
+        }
+      }
+    },
+    "N7Dg9H5qQzYgn4PO": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rastel-waiting-one.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rastel-waiting-one.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rastel-waiting-one.webp"
+          }
+        }
+      }
+    },
+    "ajgMdZpsbHSuPRfT": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rastel-waiting-one.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rastel-waiting-one.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rastel-waiting-one.webp"
+          }
+        }
+      }
+    },
+    "6VUxvixmcqOFgFUe": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rastel-waiting-one.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rastel-waiting-one.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rastel-waiting-one.webp"
+          }
+        }
+      }
+    },
+    "tnNUGJ9PD6BmtRdO": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rastel-waiting-one.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rastel-waiting-one.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rastel-waiting-one.webp"
+          }
+        }
+      }
+    },
+    "aT888tMnxDybvoLC": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-halfling-druid.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-halfling-druid.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-halfling-druid.webp"
+          }
+        }
+      }
+    },
+    "j8jArLjoeWx4xM6x": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-halfling-druid.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-halfling-druid.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-halfling-druid.webp"
+          }
+        }
+      }
+    },
+    "IRBZSAC5RXXq5Al1": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-halfling-druid.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-halfling-druid.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-halfling-druid.webp"
+          }
+        }
+      }
+    },
+    "bhtOnJtREvzwCTgt": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-halfling-druid.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-halfling-druid.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-halfling-druid.webp"
+          }
+        }
+      }
+    },
+    "yXGYU231FiDQnPPq": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-halfling-druid.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-halfling-druid.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-halfling-druid.webp"
+          }
+        }
+      }
+    },
+    "iRzjteVsMuKwrUze": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-halfling-druid.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-halfling-druid.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-halfling-druid.webp"
+          }
+        }
+      }
+    },
+    "FAqEwg80NoDDFv8l": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-halfling-druid.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-halfling-druid.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-halfling-druid.webp"
+          }
+        }
+      }
+    },
+    "yR5W6HrGPVaJ19aT": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-halfling-druid.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-halfling-druid.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-halfling-druid.webp"
+          }
+        }
+      }
+    },
+    "sETSem6zIIJ82Ymk": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-halfling-druid.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-halfling-druid.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-halfling-druid.webp"
+          }
+        }
+      }
+    },
+    "gEP3r7Idh2pxEZdc": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-gnome-fighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-gnome-fighter.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-gnome-fighter.webp"
+          }
+        }
+      }
+    },
+    "20jaZjNJ5jMGntNf": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-gnome-fighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-gnome-fighter.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-gnome-fighter.webp"
+          }
+        }
+      }
+    },
+    "MXs60Y75oSTE0z56": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-gnome-fighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-gnome-fighter.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-gnome-fighter.webp"
+          }
+        }
+      }
+    },
+    "hctTM0VU9jOX1ek4": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-gnome-fighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-gnome-fighter.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-gnome-fighter.webp"
+          }
+        }
+      }
+    },
+    "VKm7k5if12mVLYv5": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-gnome-fighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-gnome-fighter.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-gnome-fighter.webp"
+          }
+        }
+      }
+    },
+    "meHZBMGNlgw3Gbz5": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-gnome-fighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-gnome-fighter.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-gnome-fighter.webp"
+          }
+        }
+      }
+    },
+    "hdbDyenS7OvIC1pV": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-martial-artist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-martial-artist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-martial-artist.webp"
+          }
+        }
+      }
+    },
+    "mWF3Xt8afVb2Yijr": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-martial-artist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-martial-artist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-martial-artist.webp"
+          }
+        }
+      }
+    },
+    "LX34lqhMUrgokcpf": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-martial-artist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-martial-artist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-martial-artist.webp"
+          }
+        }
+      }
+    },
+    "34pZiJBAIp9fBgKL": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-martial-artist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-martial-artist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-martial-artist.webp"
+          }
+        }
+      }
+    },
+    "KhP4LNiOosiJsEx7": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-martial-artist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-martial-artist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-martial-artist.webp"
+          }
+        }
+      }
+    },
+    "8xYTK3l7PtwR5MtO": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-martial-artist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-martial-artist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-martial-artist.webp"
+          }
+        }
+      }
+    },
+    "nIu4ZdA0DETCf2W2": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-hunter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-hunter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6SLqGF2bSSp8C5dV": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-hunter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-hunter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "V0shmKVcampKTq7E": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-hunter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-hunter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "oLGbxocTDqLJ74Bk": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-hunter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-hunter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DNJLFwaMAHoyh9cR": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-hunter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-hunter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TP5TxoS32uVTRUc8": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-hunter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-hunter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-hunter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tJa8LcWzbJxYcDst": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dhampir-rogue.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dhampir-rogue.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dhampir-rogue.webp"
+          }
+        }
+      }
+    },
+    "QkC0uFzNYGqS97mM": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dhampir-rogue.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dhampir-rogue.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dhampir-rogue.webp"
+          }
+        }
+      }
+    },
+    "JHUiDYDunNrR6fQZ": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dhampir-rogue.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dhampir-rogue.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dhampir-rogue.webp"
+          }
+        }
+      }
+    },
+    "H9bUMe2wOA08wIok": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dhampir-rogue.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dhampir-rogue.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dhampir-rogue.webp"
+          }
+        }
+      }
+    },
+    "521euvbF9z0ChdGI": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dhampir-rogue.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dhampir-rogue.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dhampir-rogue.webp"
+          }
+        }
+      }
+    },
+    "0FUWn1DRgjBuiDHQ": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dhampir-rogue.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dhampir-rogue.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dhampir-rogue.webp"
+          }
+        }
+      }
+    },
+    "6qmSDCF23dogt1gO": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/oasis-farmer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/oasis-farmer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/oasis-farmer.webp"
+          }
+        }
+      }
+    },
+    "QnexTXsFRhhctWib": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/oasis-farmer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/oasis-farmer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/oasis-farmer.webp"
+          }
+        }
+      }
+    },
+    "ykbsufN2NZSLbatX": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/oasis-farmer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/oasis-farmer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/oasis-farmer.webp"
+          }
+        }
+      }
+    },
+    "ntfmccUwpq5QUfNk": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/oasis-farmer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/oasis-farmer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/oasis-farmer.webp"
+          }
+        }
+      }
+    },
+    "whI3tnm6nIetYN5I": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/oasis-farmer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/oasis-farmer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/oasis-farmer.webp"
+          }
+        }
+      }
+    },
+    "QJRsg5GSG6pXdw8v": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/oasis-farmer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/oasis-farmer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/oasis-farmer.webp"
+          }
+        }
+      }
+    },
+    "hQiyx3R8NNbEs1zG": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/oasis-farmer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/oasis-farmer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/oasis-farmer.webp"
+          }
+        }
+      }
+    },
+    "HwtKoRzVLZxXFnsP": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/oasis-farmer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/oasis-farmer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/oasis-farmer.webp"
+          }
+        }
+      }
+    },
+    "hPUq7yXRXTUs4fzT": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/oasis-farmer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/oasis-farmer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/oasis-farmer.webp"
+          }
+        }
+      }
+    },
+    "39WcoXLAVE19JUEa": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-oracle.webp"
+          }
+        }
+      }
+    },
+    "NwJxTzZb7XwmbGRF": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-oracle.webp"
+          }
+        }
+      }
+    },
+    "WkED36XGaWaLVB8s": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-oracle.webp"
+          }
+        }
+      }
+    },
+    "uRBF4jYThQUI6YN7": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-oracle.webp"
+          }
+        }
+      }
+    },
+    "Ela24uWRAQKJirxm": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-oracle.webp"
+          }
+        }
+      }
+    },
+    "gZhtAmEnlqLC7U8l": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-oracle.webp"
+          }
+        }
+      }
+    },
+    "5AvTCzq7towZNe61": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-oracle.webp"
+          }
+        }
+      }
+    },
+    "iS0JaR9u47qsFKL3": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-oracle.webp"
+          }
+        }
+      }
+    },
+    "R4kFk0cHffbdGhbw": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-oracle.webp"
+          }
+        }
+      }
+    },
+    "CkBIrOVFxcO3SuAe": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-archer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-archer.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-archer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "90SJU9lHqGqrwGEt": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-archer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-archer.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-archer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cloDcChRudgq7Wq5": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-archer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-archer.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-archer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "62SJuelSL9vzj8BJ": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-archer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-archer.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-archer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9qiW4eGoOBPVc1DG": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dwarf-wizard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dwarf-wizard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dwarf-wizard.webp"
+          }
+        }
+      }
+    },
+    "a0wMCFiADu1sDSak": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dwarf-wizard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dwarf-wizard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dwarf-wizard.webp"
+          }
+        }
+      }
+    },
+    "ThxqR3w2Wy4V0UIz": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dwarf-wizard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dwarf-wizard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dwarf-wizard.webp"
+          }
+        }
+      }
+    },
+    "0gyztyFK9p40Cm3e": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dwarf-wizard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dwarf-wizard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dwarf-wizard.webp"
+          }
+        }
+      }
+    },
+    "QCLdkfYqMOYcKxiO": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dwarf-wizard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dwarf-wizard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dwarf-wizard.webp"
+          }
+        }
+      }
+    },
+    "COD4cIOBoXak9oOi": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dwarf-wizard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dwarf-wizard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dwarf-wizard.webp"
+          }
+        }
+      }
+    },
+    "1Fj7aqnYSXkV3wtI": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/street-school-sneak.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/street-school-sneak.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/street-school-sneak.webp"
+          }
+        }
+      }
+    },
+    "QcgHBBMrsinVKLJe": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/street-school-sneak.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/street-school-sneak.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/street-school-sneak.webp"
+          }
+        }
+      }
+    },
+    "2KDvSiJIfozexXmp": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/street-school-sneak.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/street-school-sneak.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/street-school-sneak.webp"
+          }
+        }
+      }
+    },
+    "qYAi8E9zi0O1158m": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/street-school-sneak.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/street-school-sneak.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/street-school-sneak.webp"
+          }
+        }
+      }
+    },
+    "vK7mfMwQxtEx9P65": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-physician.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-physician.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-physician.webp"
+          }
+        }
+      }
+    },
+    "f9AGp30o7RJ9yB2I": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-physician.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-physician.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-physician.webp"
+          }
+        }
+      }
+    },
+    "VLbdDtELpaovYUmw": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-physician.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-physician.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-physician.webp"
+          }
+        }
+      }
+    },
+    "cRLtEbs4aQIYVn7m": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-physician.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-physician.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-physician.webp"
+          }
+        }
+      }
+    },
+    "fnWn7GxDATWlWtLH": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-bodyguard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-bodyguard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-bodyguard.webp"
+          }
+        }
+      }
+    },
+    "oPf8AeS9dzKSzf4B": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-bodyguard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-bodyguard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-bodyguard.webp"
+          }
+        }
+      }
+    },
+    "s6k510CIYwYlAUsO": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-bodyguard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-bodyguard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-bodyguard.webp"
+          }
+        }
+      }
+    },
+    "Z4fDPUS91nC5adE8": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-bodyguard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-bodyguard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-bodyguard.webp"
+          }
+        }
+      }
+    },
+    "lpnw05ash7Ta0u6T": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/senghor-guard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/senghor-guard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/senghor-guard.webp"
+          }
+        }
+      }
+    },
+    "mLBjsTBo94iK8GXP": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/senghor-guard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/senghor-guard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/senghor-guard.webp"
+          }
+        }
+      }
+    },
+    "LYFqsURmfnpHXzMA": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/senghor-guard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/senghor-guard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/senghor-guard.webp"
+          }
+        }
+      }
+    },
+    "sH9NvA3CQAxBaIMp": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/senghor-guard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/senghor-guard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/senghor-guard.webp"
+          }
+        }
+      }
+    },
+    "DwP31sOrzrlLO4YC": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/absalom-firefighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/absalom-firefighter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/absalom-firefighter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1J36VIbVQfB0RoJ6": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/absalom-firefighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/absalom-firefighter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/absalom-firefighter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "r1IzVPimZRopRvjC": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/absalom-firefighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/absalom-firefighter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/absalom-firefighter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9WSxL9PGEipQQ6xV": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/absalom-firefighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/absalom-firefighter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/absalom-firefighter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ULj8xQ6gLLDu4YYH": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/absalom-firefighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/absalom-firefighter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/absalom-firefighter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AuM76ygYEZ3NGRNs": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/absalom-firefighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/absalom-firefighter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/absalom-firefighter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "db8QSYD85JOaNq1J": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-necromancer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-necromancer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-necromancer.webp"
+          }
+        }
+      }
+    },
+    "WuUwrRyVFNKSSWrJ": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-necromancer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-necromancer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-necromancer.webp"
+          }
+        }
+      }
+    },
+    "Cm7R4YLW566QC4i3": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-necromancer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-necromancer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-necromancer.webp"
+          }
+        }
+      }
+    },
+    "0XReUhUQAqQqvRfi": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-necromancer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-necromancer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-necromancer.webp"
+          }
+        }
+      }
+    },
+    "Fq4ZYL84OMOyO6gI": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-necromancer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-necromancer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-necromancer.webp"
+          }
+        }
+      }
+    },
+    "e4cLTdpyfZpZ5Tsl": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-necromancer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-necromancer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-necromancer.webp"
+          }
+        }
+      }
+    },
+    "6IxB3QPB3xMHnfqV": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-acolyte.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-acolyte.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-acolyte.webp"
+          }
+        }
+      }
+    },
+    "u3e4cVporODm7SiU": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-acolyte.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-acolyte.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-acolyte.webp"
+          }
+        }
+      }
+    },
+    "IHGhXp8Lgkv4uRbq": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-acolyte.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-acolyte.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-acolyte.webp"
+          }
+        }
+      }
+    },
+    "GLNYIjXO2o0Vh55i": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-acolyte.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-acolyte.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-acolyte.webp"
+          }
+        }
+      }
+    },
+    "rRpDHxkVH9Jxeq2N": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-acolyte.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-acolyte.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-acolyte.webp"
+          }
+        }
+      }
+    },
+    "a6oGqEv3WwbGoiLm": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-acolyte.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-acolyte.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-acolyte.webp"
+          }
+        }
+      }
+    },
+    "iLflACpyb24Pym4u": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rubeis.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rubeis.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rubeis.webp"
+          }
+        }
+      }
+    },
+    "kHOiQZL093mCORzD": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rubeis.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rubeis.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rubeis.webp"
+          }
+        }
+      }
+    },
+    "LQBgIaby1u6bYpJh": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rubeis.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rubeis.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rubeis.webp"
+          }
+        }
+      }
+    },
+    "lLHfcE76lmElVfQr": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rubeis.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rubeis.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rubeis.webp"
+          }
+        }
+      }
+    },
+    "Dzpl65JGnkfnknvt": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rubeis.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rubeis.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rubeis.webp"
+          }
+        }
+      }
+    },
+    "pcinHptibSeVxNfg": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rubeis.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rubeis.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rubeis.webp"
+          }
+        }
+      }
+    },
+    "9kSuEevnHj4jmaC2": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-barbarian.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-barbarian.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-barbarian.webp"
+          }
+        }
+      }
+    },
+    "XyErJFYFEQgtEpVN": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-barbarian.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-barbarian.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-barbarian.webp"
+          }
+        }
+      }
+    },
+    "ll69YQapX9ljpOKy": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-barbarian.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-barbarian.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-barbarian.webp"
+          }
+        }
+      }
+    },
+    "2PyaEjWk8bQarKkD": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-barbarian.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-barbarian.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-barbarian.webp"
+          }
+        }
+      }
+    },
+    "PSZpTv9tbn2h61Xz": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-oracle.webp"
+          }
+        }
+      }
+    },
+    "4g3GO8soNce0sLJu": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-oracle.webp"
+          }
+        }
+      }
+    },
+    "ZEb0qTBjm2xabk9N": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-oracle.webp"
+          }
+        }
+      }
+    },
+    "Sb0oBjPqvHDYmjvB": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-oracle.webp"
+          }
+        }
+      }
+    },
+    "o2VIQnN1B3uDRRSM": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-oracle.webp"
+          }
+        }
+      }
+    },
+    "1aUaJ4nYoVnmdbIe": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-oracle.webp"
+          }
+        }
+      }
+    },
+    "VwW8JdxB7XwdY4Rg": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-tracker.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-tracker.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-tracker.webp"
+          }
+        }
+      }
+    },
+    "Yre3T8LhHXXjDThL": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-tracker.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-tracker.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-tracker.webp"
+          }
+        }
+      }
+    },
+    "RE9unzjyZ4E5Bg9B": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-tracker.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-tracker.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-tracker.webp"
+          }
+        }
+      }
+    },
+    "66EUBYS9v5l7YFjz": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-tracker.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-tracker.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-tracker.webp"
+          }
+        }
+      }
+    },
+    "kuLwvQeo0sYvanuh": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/wrestler.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/wrestler.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/wrestler.webp"
+          }
+        }
+      }
+    },
+    "PvOqhSYrjUkOfGbm": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/wrestler.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/wrestler.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/wrestler.webp"
+          }
+        }
+      }
+    },
+    "ydpmAmjHIwNlqtJR": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/wrestler.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/wrestler.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/wrestler.webp"
+          }
+        }
+      }
+    },
+    "pXn3fvxddYVvyjV4": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/wrestler.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/wrestler.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/wrestler.webp"
+          }
+        }
+      }
+    },
+    "Tw13kgbVTuR3prTZ": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-beggar.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-beggar.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-beggar.webp"
+          }
+        }
+      }
+    },
+    "DKpOw3DeydqAge0I": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/veteran-reclaimer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/veteran-reclaimer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/veteran-reclaimer.webp"
+          }
+        }
+      }
+    },
+    "Rm10JNggw8iHL80E": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-watch-officer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-watch-officer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-watch-officer.webp"
+          }
+        }
+      }
+    },
+    "LH3TX2hHy71ce2Mm": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/lastwall-scout.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/lastwall-scout.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/lastwall-scout.webp"
+          }
+        }
+      }
+    },
+    "qrOwYohTVOLoRNme": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-beggar.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-beggar.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-beggar.webp"
+          }
+        }
+      }
+    },
+    "OnWAuq5cmvRl78cn": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-cavalier.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-cavalier.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-cavalier.webp"
+          }
+        }
+      }
+    },
+    "qSYaxxAHVgikIIpY": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/veteran-reclaimer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/veteran-reclaimer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/veteran-reclaimer.webp"
+          }
+        }
+      }
+    },
+    "TihTAxRaSOBokwmz": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-cavalier.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-cavalier.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-cavalier.webp"
+          }
+        }
+      }
+    },
+    "TihTAxRaSOBokwmz": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-cavalier.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-cavalier.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-cavalier.webp"
+          }
+        }
+      }
+    },
+    "hVIL2pJ7MtWTLqau": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-demonologist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-demonologist.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-demonologist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WmmztwDtJrPEHMxt": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-monster-hunter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-monster-hunter.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-monster-hunter.webp"
+          }
+        }
+      }
+    },
+    "NV0UrlZBHj4kHPAd": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-ekujae-druid.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-ekujae-druid.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-ekujae-druid.webp"
+          }
+        }
+      }
+    },
+    "v27i9ZqRRANchJqp": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-tian-monk.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-tian-monk.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-tian-monk.webp"
+          }
+        }
+      }
+    },
+    "AqDzXOCqSRyGRL9e": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-prophet.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-prophet.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-prophet.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UgGzOfg3Sb53c4yX": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-goblin-scavenger.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-goblin-scavenger.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-goblin-scavenger.webp"
+          }
+        }
+      }
+    },
+    "q4fZf5ZQ8hSc6U9y": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-guard-elf.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-guard-elf.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/tokens/gmg-guard-elf.webp"
+          }
+        }
+      }
+    },
+    "fhgPHESucqlq1ivu": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-poacher.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-poacher.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-poacher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9JNARe7mCwShZ9V7": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-palace-guard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-palace-guard.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-palace-guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "T54v9SD1BNCmcHKx": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-gnome-bleachling.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-gnome-bleachling.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-gnome-bleachling.webp"
+          }
+        }
+      }
+    },
+    "FmLU5wStPbtdlNUJ": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-torchbearer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-torchbearer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-torchbearer.webp"
+          }
+        }
+      }
+    },
+    "g1r2uMZjyGanJyss": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/dromaar-frostkin.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/dromaar-frostkin.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/dromaar-frostkin.webp"
+          }
+        }
+      }
+    },
+    "sRTSD4oxm20EBWnd": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-palace-guard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-palace-guard.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-palace-guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hhFg0YHPlXTWRmky": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-aiuvarin-fighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-aiuvarin-fighter.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-aiuvarin-fighter.webp"
+          }
+        }
+      }
+    },
+    "nZ0QxLF6Zp2MI9TM": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-guard-elf.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-guard-elf.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/tokens/gmg-guard-elf.webp"
+          }
+        }
+      }
+    },
+    "uB7HVPeSdwQMOtFh": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/dromaar-frostkin.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/dromaar-frostkin.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/dromaar-frostkin.webp"
+          }
+        }
+      }
+    },
+    "CBuBZFgkzPbmvfoK": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-farmer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-farmer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-farmer.webp"
+          }
+        }
+      }
+    },
+    "ufqxWttnvIGxKo5N": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-scroll-trickster.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-scroll-trickster.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-scroll-trickster.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zs7z21iM7dKWRTZw": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-archer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-archer.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-archer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "epP15SjHtVA1blif": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-archer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-archer.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-archer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LJKxdektZW7R4fbz": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-archer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-archer.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-archer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jdSGnCMNKraqYIiF": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-archer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-archer.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-archer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZJducXdaopuCsBZY": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-archer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-archer.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-archer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8BSFS2ewV4cmdHF6": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-bandit-human.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-bandit-human.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-bandit-human.webp"
+          }
+        }
+      }
+    },
+    "7BjAbuFHzVYm7j20": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-bandit-human.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-bandit-human.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-bandit-human.webp"
+          }
+        }
+      }
+    },
+    "ZCAvHNFlWe6jDmIv": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-barrister.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-barrister.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-barrister.webp"
+          }
+        }
+      }
+    },
+    "1kxsIFChPOi7IY85": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-barrister.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-barrister.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-barrister.webp"
+          }
+        }
+      }
+    },
+    "7JsdCuwApj7aWBG9": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dwarf-wizard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dwarf-wizard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dwarf-wizard.webp"
+          }
+        }
+      }
+    },
+    "48lHW9t0fKgHCns8": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dwarf-wizard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dwarf-wizard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dwarf-wizard.webp"
+          }
+        }
+      }
+    },
+    "GjzIccQE1gB5U8al": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dwarf-wizard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dwarf-wizard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dwarf-wizard.webp"
+          }
+        }
+      }
+    },
+    "vB3wzYRuN9l8yRIV": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dwarf-wizard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dwarf-wizard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dwarf-wizard.webp"
+          }
+        }
+      }
+    },
+    "aZjLU0AS5FAkamZe": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dwarf-wizard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dwarf-wizard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dwarf-wizard.webp"
+          }
+        }
+      }
+    },
+    "OTuQvpGudSH4Fxg1": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dwarf-wizard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dwarf-wizard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dwarf-wizard.webp"
+          }
+        }
+      }
+    },
+    "ZSbantD5tiFPVLed": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-dwarf-wizard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-dwarf-wizard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-dwarf-wizard.webp"
+          }
+        }
+      }
+    },
+    "poko73pu28pUrFSL": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-cultist-human.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-cultist-human.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-cultist-human.webp"
+          }
+        }
+      }
+    },
+    "1mHwt5LJXypBHV9Q": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-cultist-human.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-cultist-human.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-cultist-human.webp"
+          }
+        }
+      }
+    },
+    "RVKMc3v5ycsmRi5u": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/street-school-sneak.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/street-school-sneak.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/street-school-sneak.webp"
+          }
+        }
+      }
+    },
+    "XY6wpzN4BgZzSv8y": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/street-school-sneak.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/street-school-sneak.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/street-school-sneak.webp"
+          }
+        }
+      }
+    },
+    "aZjgkDrYileWgPPB": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/street-school-sneak.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/street-school-sneak.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/street-school-sneak.webp"
+          }
+        }
+      }
+    },
+    "aCOPFpZzaroviRkg": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/street-school-sneak.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/street-school-sneak.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/street-school-sneak.webp"
+          }
+        }
+      }
+    },
+    "Lv0NjjBDSinCWPNU": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/street-school-sneak.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/street-school-sneak.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/street-school-sneak.webp"
+          }
+        }
+      }
+    },
+    "9t1pYpuVHmIjkSZf": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-physician.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-physician.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-physician.webp"
+          }
+        }
+      }
+    },
+    "t2ikVqmOlWeJ2OZA": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-physician.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-physician.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-physician.webp"
+          }
+        }
+      }
+    },
+    "ghNKjUF4CEPCe7Zh": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-physician.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-physician.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-physician.webp"
+          }
+        }
+      }
+    },
+    "jNg56BZ5oIcQwfEX": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-physician.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-physician.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-physician.webp"
+          }
+        }
+      }
+    },
+    "1qCTWxk3kNab7M21": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-physician.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-physician.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-physician.webp"
+          }
+        }
+      }
+    },
+    "suTP0E7eRFYf9UYb": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-bodyguard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-bodyguard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-bodyguard.webp"
+          }
+        }
+      }
+    },
+    "3SyDt7jeV53gGM2Y": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-bodyguard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-bodyguard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-bodyguard.webp"
+          }
+        }
+      }
+    },
+    "Nl2FiwVi36QzHRxH": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-bodyguard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-bodyguard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-bodyguard.webp"
+          }
+        }
+      }
+    },
+    "eWUjQAVQibEJEsFT": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-bodyguard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-bodyguard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-bodyguard.webp"
+          }
+        }
+      }
+    },
+    "GKXdBLFWeJxpjhiM": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-bodyguard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-bodyguard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-bodyguard.webp"
+          }
+        }
+      }
+    },
+    "3yVW44c3Pv36uGMj": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-guard-human.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-guard-human.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-guard-human.webp"
+          }
+        }
+      }
+    },
+    "0V2eios4SHxkUW6y": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-guard-human.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-guard-human.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-guard-human.webp"
+          }
+        }
+      }
+    },
+    "pZJ1luZetZ1OK05A": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/senghor-guard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/senghor-guard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/senghor-guard.webp"
+          }
+        }
+      }
+    },
+    "nPZWhiFHEy4G0CqE": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/senghor-guard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/senghor-guard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/senghor-guard.webp"
+          }
+        }
+      }
+    },
+    "GHHrfkNle9kzzhlP": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/senghor-guard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/senghor-guard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/senghor-guard.webp"
+          }
+        }
+      }
+    },
+    "RFV8mkUIudK2plcQ": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/senghor-guard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/senghor-guard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/senghor-guard.webp"
+          }
+        }
+      }
+    },
+    "O1zCRu7cRu2w0zE6": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/senghor-guard.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/senghor-guard.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/senghor-guard.webp"
+          }
+        }
+      }
+    },
+    "4eSDJXvgjRKERjZF": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-hunter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-hunter.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-hunter.webp"
+          }
+        }
+      }
+    },
+    "OWQr27l1CGKmqf8i": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-hunter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-hunter.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-hunter.webp"
+          }
+        }
+      }
+    },
+    "XOZY8RCt48jVNU1h": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/absalom-firefighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/absalom-firefighter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/absalom-firefighter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1ZGflCznfofltOi6": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/absalom-firefighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/absalom-firefighter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/absalom-firefighter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6q9g9czo0X2k00FM": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/absalom-firefighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/absalom-firefighter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/absalom-firefighter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1E5pXRyDHGl7sshq": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/absalom-firefighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/absalom-firefighter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/absalom-firefighter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SIyo6ZZnSSQCI35f": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/absalom-firefighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/absalom-firefighter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/absalom-firefighter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "m0gmsmccsDDFXor0": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/absalom-firefighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/absalom-firefighter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/absalom-firefighter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UXbF0XBlXVdPfL4y": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/absalom-firefighter.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/absalom-firefighter.webp",
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/absalom-firefighter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "w4z7YO9VGM58Rcy4": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-mage-for-hire.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-mage-for-hire.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-mage-for-hire.webp"
+          }
+        }
+      }
+    },
+    "JOWEIKnNKCNjyCnJ": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-mage-for-hire.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-mage-for-hire.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-mage-for-hire.webp"
+          }
+        }
+      }
+    },
+    "T8xk7oxbonkzsSc3": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-martial-artist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-martial-artist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-martial-artist.webp"
+          }
+        }
+      }
+    },
+    "pGtLJCZhwDHUJ0pS": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-martial-artist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-martial-artist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-martial-artist.webp"
+          }
+        }
+      }
+    },
+    "e1toNQrvmFXMZWqB": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-martial-artist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-martial-artist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-martial-artist.webp"
+          }
+        }
+      }
+    },
+    "LUipwAYbjxnlbUC4": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-martial-artist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-martial-artist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-martial-artist.webp"
+          }
+        }
+      }
+    },
+    "udVXPmGCWVPlKfuH": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-martial-artist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-martial-artist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-martial-artist.webp"
+          }
+        }
+      }
+    },
+    "Q7HoU1ShiXvgdWAa": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-martial-artist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-martial-artist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-martial-artist.webp"
+          }
+        }
+      }
+    },
+    "ZEp9kPscWZbR0929": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-human-martial-artist.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-human-martial-artist.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-human-martial-artist.webp"
+          }
+        }
+      }
+    },
+    "mmaNAMtv0cQ0GoA6": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-necromancer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-necromancer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-necromancer.webp"
+          }
+        }
+      }
+    },
+    "dEiSxKLOinifOSCg": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-necromancer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-necromancer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-necromancer.webp"
+          }
+        }
+      }
+    },
+    "J1nwWAxU3Jx7ro22": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-necromancer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-necromancer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-necromancer.webp"
+          }
+        }
+      }
+    },
+    "H7DO3v9pau7S7GP0": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-necromancer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-necromancer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-necromancer.webp"
+          }
+        }
+      }
+    },
+    "DrxHe6pi4K50Y6sc": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-necromancer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-necromancer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-necromancer.webp"
+          }
+        }
+      }
+    },
+    "UNhJqbc9LhI8tQYt": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-necromancer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-necromancer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-necromancer.webp"
+          }
+        }
+      }
+    },
+    "eFzlrN7yaEVj8b7b": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-necromancer.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-necromancer.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-necromancer.webp"
+          }
+        }
+      }
+    },
+    "UKpm9RYOVpaONuEb": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-talisman-dabbler.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-talisman-dabbler.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-talisman-dabbler.webp"
+          }
+        }
+      }
+    },
+    "SNXWojbq9zA2jYI2": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-talisman-dabbler.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-talisman-dabbler.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-talisman-dabbler.webp"
+          }
+        }
+      }
+    },
+    "XdvMqO5c5bsaiOjM": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-talisman-dabbler.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-talisman-dabbler.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-talisman-dabbler.webp"
+          }
+        }
+      }
+    },
+    "kfHjPBXFwriSlonj": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-acolyte.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-acolyte.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-acolyte.webp"
+          }
+        }
+      }
+    },
+    "J4ul7sL9IqFojQYd": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-acolyte.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-acolyte.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-acolyte.webp"
+          }
+        }
+      }
+    },
+    "JXYaxrms67571Wa9": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-acolyte.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-acolyte.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-acolyte.webp"
+          }
+        }
+      }
+    },
+    "qIcFA3zmFzoI1WPv": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-acolyte.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-acolyte.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-acolyte.webp"
+          }
+        }
+      }
+    },
+    "d8HodGllN3UClJZS": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-acolyte.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-acolyte.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-acolyte.webp"
+          }
+        }
+      }
+    },
+    "AE1ieSHDjxfBjPIC": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-acolyte.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-acolyte.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-acolyte.webp"
+          }
+        }
+      }
+    },
+    "QkxCAIXuFeYM9ztS": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-acolyte.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-acolyte.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-acolyte.webp"
+          }
+        }
+      }
+    },
+    "NFHzNYHn9zR8xpsO": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rubeis.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rubeis.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rubeis.webp"
+          }
+        }
+      }
+    },
+    "IkKqzHuP6xfxo8tx": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rubeis.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rubeis.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rubeis.webp"
+          }
+        }
+      }
+    },
+    "jN3Dj5lbMWyr8V4O": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rubeis.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rubeis.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rubeis.webp"
+          }
+        }
+      }
+    },
+    "aYTgRnmzyaAgDEZX": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rubeis.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rubeis.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rubeis.webp"
+          }
+        }
+      }
+    },
+    "2MItLiBB4U6zuTrH": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rubeis.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rubeis.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rubeis.webp"
+          }
+        }
+      }
+    },
+    "JBtBitMPSWsFKzLC": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rubeis.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rubeis.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rubeis.webp"
+          }
+        }
+      }
+    },
+    "G7oAfCK1t0iRBxb1": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/rubeis.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/rubeis.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/rubeis.webp"
+          }
+        }
+      }
+    },
+    "tbNtqqRkkcCQWk6S": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-barbarian.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-barbarian.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-barbarian.webp"
+          }
+        }
+      }
+    },
+    "zA1WqBd3e2OowUtV": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-barbarian.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-barbarian.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-barbarian.webp"
+          }
+        }
+      }
+    },
+    "mRZ4lnPw29ifnHB3": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-barbarian.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-barbarian.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-barbarian.webp"
+          }
+        }
+      }
+    },
+    "zYEJzuKH0cq0TKtC": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-barbarian.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-barbarian.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-barbarian.webp"
+          }
+        }
+      }
+    },
+    "etehSEKxOYmdOMbB": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-barbarian.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-barbarian.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-barbarian.webp"
+          }
+        }
+      }
+    },
+    "BK1tGK7XhBb1d4Lo": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-oracle.webp"
+          }
+        }
+      }
+    },
+    "lRTDMKqOrWU4p0C7": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-oracle.webp"
+          }
+        }
+      }
+    },
+    "IHvCoNhf0pVGxQhj": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-oracle.webp"
+          }
+        }
+      }
+    },
+    "iwROrOkpfa0WDQS0": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-oracle.webp"
+          }
+        }
+      }
+    },
+    "MRRhqQS2W7iLraOe": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-oracle.webp"
+          }
+        }
+      }
+    },
+    "9riKC4q7NSRj4R0q": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-oracle.webp"
+          }
+        }
+      }
+    },
+    "M0Ru7k6eGcDijoub": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/pc-orc-oracle.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/pc-orc-oracle.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/pc-orc-oracle.webp"
+          }
+        }
+      }
+    },
+    "hZoCyktr1A0HynMI": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/firefly-sprite.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/firefly-sprite.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/firefly-sprite.webp"
+          }
+        }
+      }
+    },
+    "xqYwxCdW2pWhceMb": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/firefly-sprite.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/firefly-sprite.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/firefly-sprite.webp"
+          }
+        }
+      }
+    },
+    "kYK3EHFpzCt4nsuC": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-tracker.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-tracker.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-tracker.webp"
+          }
+        }
+      }
+    },
+    "l0ZmcEJ9JvdrJj3X": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-tracker.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-tracker.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-tracker.webp"
+          }
+        }
+      }
+    },
+    "MoOaRKtJjblZHtHT": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-tracker.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-tracker.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-tracker.webp"
+          }
+        }
+      }
+    },
+    "tBhYNKoCLKY8698b": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-tracker.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-tracker.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-tracker.webp"
+          }
+        }
+      }
+    },
+    "cvi77HvhEQA4Zi6A": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/gmg-tracker.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/gmg-tracker.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/gmg-tracker.webp"
+          }
+        }
+      }
+    },
+    "ZYFCiXLHlO7W54gx": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/wrestler.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/wrestler.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/wrestler.webp"
+          }
+        }
+      }
+    },
+    "iD6Sn6vehgwa1Sln": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/wrestler.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/wrestler.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/wrestler.webp"
+          }
+        }
+      }
+    },
+    "KWlpMDfzC8u5CKDV": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/wrestler.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/wrestler.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/wrestler.webp"
+          }
+        }
+      }
+    },
+    "562JdNwYW7VTJEXz": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/wrestler.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/wrestler.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/wrestler.webp"
+          }
+        }
+      }
+    },
+    "BA6kQzcqpTDycqyH": {
+      "actor": "modules/pf2e-tokens-characters/assets/portraits/wrestler.webp",
+      "token": {
+        "texture": {
+          "src": "modules/pf2e-tokens-characters/assets/tokens/wrestler.webp"
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-tokens-characters/assets/subjects/wrestler.webp"
+          }
+        }
+      }
+    }
+  }
+}

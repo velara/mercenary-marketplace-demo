@@ -1,6 +1,6 @@
 /* Variable Definitions */
 .pf2e-mmDemo {
-  /* Colour Schema - Strong Together ORCS */
+  /* Colour Schema - Mercenary Marketplace Volume 1 */
   --mmDemo-dark-blue: #050e18;
   --mmDemo-mid-blue: #0D253F;
   --mmDemo-light-blue:#334C69;
@@ -223,7 +223,7 @@
     font-weight: 400;
     line-height: var(--main-line-height);
 
-    li {
+   li {
         padding-left: var(--space-s);
     }
 
@@ -232,19 +232,19 @@
     }
   }
 
-  ul li::marker {
+  .pf2e-mmDemo ul li::marker {
     content: "\25B8";
     color: var(--mmDemo-dark-blue);
     font-size: var(--h4-font-size);
   }
 
-  ol li::marker {
+  .pf2e-mmDemo ol li::marker {
     font-weight: 700;
     color:  var(--mmDemo-dark-blue);
     font-size: var(--h4-font-size);
   }
 
-  p + :is(ul, ol) {
+  .pf2e-mmDemo p + :is(ul, ol) {
     margin-top: revert;
   }
 
