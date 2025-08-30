@@ -1,6 +1,6 @@
 {
   "id": "pf2e-mercenary-marketplace-demo",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "title": "PF2e Mercenary Marketplace Demo",
   "description": "A demo for Mercenary Marketplace.",
   "authors": [
@@ -11,15 +11,16 @@
   "media": [{
         "type": "setup",
         "caption": "Mercenary Marketplace Demo",
-        "thumbnail": "modules/pf2e-mercenary-marketplace-vol1/art/mmdemo-thumb.webp"
+        "thumbnail": "modules/pf2e-mercenary-marketplace-demo/art/mmDemo-thumb.webp"
   }],
   "compatibility": {
-    "minimum": "11",
-    "verified": "11",
-    "maximum": "11"
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
   },
   "manifest": "https://raw.githubusercontent.com/velara/mercenary-marketplace-demo/main/module.json",
-  "download": "https://github.com/velara/mercenary-marketplace-demo/archive/refs/tags/2.0.0.zip",
+  "download": "https://github.com/velara/mercenary-marketplace-demo/archive/refs/tags/3.0.0.zip",
+  "protected": false,
   "esmodules": [
     "popup.js"
   ],
@@ -28,74 +29,88 @@
   ],
   "packs": [
     {
-      "label": "Demo NPCs",
+      "label": "NPCs",
       "type": "Actor",
       "name": "mmDemo-actors",
       "path": "packs/actors-mercenary-marketplace-demo",
       "system": "pf2e",
-      "banner": "modules/pf2e-mercenary-marketplace-vol1/art/mmv1-banner.webp",
-      "private": true,
-      "flags": {}
+      "banner": "modules/pf2e-mercenary-marketplace-demo/art/mmDemo-banner.webp",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Demo Ability Glossary",
+      "label": "Ability Glossary",
       "type": "Item",
       "name": "mmDemo-abilities",
       "path": "packs/abilities-mercenary-marketplace-demo",
       "system": "pf2e",
-      "banner": "modules/pf2e-mercenary-marketplace-vol1/art/mmv1-banner-AET.webp",
-      "private": true,
-      "flags": {}
+      "banner": "modules/pf2e-mercenary-marketplace-demo/art/mmDemo-banner-AET.webp",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Demo Effect Glossary",
+      "label": "Effect Glossary",
       "type": "Item",
       "name": "mmDemo-effects",
       "path": "packs/effects-mercenary-marketplace-demo",
       "system": "pf2e",
-      "banner": "modules/pf2e-mercenary-marketplace-vol1/art/mmv1-banner-AET.webp",
-      "private": true,
-      "flags": {}
+      "banner": "modules/pf2e-mercenary-marketplace-demo/art/mmDemo-banner-AET.webp",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Demo Creature Templates",
+      "label": "Creature Templates",
       "type": "Item",
       "name": "mmDemo-templates",
       "path": "packs/templates-mercenary-marketplace-demo",
       "system": "pf2e",
-      "banner": "modules/pf2e-mercenary-marketplace-vol1/art/mmv1-banner-AET.webp",
-      "private": true,
-      "flags": {}
+      "banner": "modules/pf2e-mercenary-marketplace-demo/art/mmDemo-banner-AET.webp",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Demo Spells",
+      "label": "Spells",
       "type": "Item",
       "name": "mmDemo-spells",
       "path": "packs/spells-mercenary-marketplace-demo",
       "system": "pf2e",
-      "banner": "modules/pf2e-mercenary-marketplace-vol1/art/mmv1-banner-SM.webp",
-      "private": true,
-      "flags": {}
+      "banner": "modules/pf2e-mercenary-marketplace-demo/art/mmDemo-banner-SM.webp",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Demo Macros",
+      "label": "Macros",
       "type": "Macro",
       "name": "mmDemo-macros",
       "path": "packs/macros-mercenary-marketplace-demo",
       "system": "pf2e",
-      "banner": "modules/pf2e-mercenary-marketplace-vol1/art/mmv1-banner-SM.webp",
-      "private": true,
-      "flags": {}
+      "banner": "modules/pf2e-mercenary-marketplace-demo/art/mmDemo-banner-SM.webp",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Demo Journals",
+      "label": "Journals",
       "type": "JournalEntry",
       "name": "mmDemo-journals",
       "path": "packs/journals-mercenary-marketplace-demo",
       "system": "pf2e",
-      "banner": "modules/pf2e-mercenary-marketplace-vol1/art/mmv1-banner-J.webp",
-      "private": true,
-      "flags": {}
+      "banner": "modules/pf2e-mercenary-marketplace-demo/art/mmDemo-banner-J.webp",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -118,13 +133,19 @@
       {
         "id": "pf2e",
         "compatibility": {
-          "minimum": "5.16.0"
+          "minimum": "7.1.1"
         },
         "type": "system"
       }
     ]
   },
   "flags": {
+    "compendiumArtMappings": {
+      "pf2e": {
+        "mapping":"modules/pf2e-mercenary-marketplace-demo/optional-art-map.json",
+        "credit":"Portrait and Token art from Pathfinder Tokens: Character Gallery"
+      }
+    },
     "pf2e-mercenary-marketplace-demo": {
       "pf2e-homebrew": {
         "creatureTraits": {
